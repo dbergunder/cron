@@ -3,7 +3,7 @@
 
 include_once('cron.php');
 
-use utilitys\cron\cron;
+use utilities\cron\cron;
 
 class myCron extends cron {
     /**

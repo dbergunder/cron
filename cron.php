@@ -8,7 +8,7 @@
  * Terminates task if any errors occur
  * TODO: PSR-3 / PSR Log Compliance?
  */
-namespace utilitys\cron;
+namespace utilities\cron;
 
 abstract class cron
 {
